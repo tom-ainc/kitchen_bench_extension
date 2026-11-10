@@ -1,0 +1,98 @@
+[
+ {
+  "file": "/home/user/CAD/kitchen_bench_extension/bench.step",
+  "parts": 20,
+  "kinds": {},
+  "report": {
+   "num_faces": 186,
+   "faces_skipped": 0,
+   "num_edges": 396,
+   "recognised": 0,
+   "surfaces_recognised": 0,
+   "tolerances_raised": 0,
+   "largest_gap": 0.0,
+   "tolerances_raised_to_faces": 3,
+   "largest_face_gap": 0.0024706276965048997,
+   "largest_recognised": 0.0,
+   "tolerances_capped": 2,
+   "largest_stated_tolerance": 0.02,
+   "edges_lowered": 0,
+   "slivers_collapsed": 0,
+   "widest_sliver": 0.0,
+   "slivers_kept": 0
+  },
+  "warnings": []
+ },
+ {
+  "file": "/home/user/CAD/kitchen_bench_extension/Left Runner Drawbar.step",
+  "parts": 2,
+  "kinds": {},
+  "report": {
+   "num_faces": 68,
+   "faces_skipped": 0,
+   "num_edges": 190,
+   "recognised": 0,
+   "surfaces_recognised": 0,
+   "tolerances_raised": 0,
+   "largest_gap": 0.0,
+   "tolerances_raised_to_faces": 2,
+   "largest_face_gap": 0.006712205658764417,
+   "largest_recognised": 0.0,
+   "tolerances_capped": 1,
+   "largest_stated_tolerance": 0.02,
+   "edges_lowered": 0,
+   "slivers_collapsed": 0,
+   "widest_sliver": 0.0,
+   "slivers_kept": 0
+  },
+  "warnings": []
+ },
+ {
+  "file": "/home/user/CAD/kitchen_bench_extension/Right Runner Drawbar.step",
+  "parts": 2,
+  "kinds": {},
+  "report": {
+   "num_faces": 68,
+   "faces_skipped": 0,
+   "num_edges": 190,
+   "recognised": 0,
+   "surfaces_recognised": 0,
+   "tolerances_raised": 0,
+   "largest_gap": 0.0,
+   "tolerances_raised_to_faces": 2,
+   "largest_face_gap": 0.006712205658764417,
+   "largest_recognised": 0.0,
+   "tolerances_capped": 1,
+   "largest_stated_tolerance": 0.02,
+   "edges_lowered": 0,
+   "slivers_collapsed": 0,
+   "widest_sliver": 0.0,
+   "slivers_kept": 0
+  },
+  "warnings": []
+ },
+ {
+  "file": "/home/user/CAD/kitchen_bench_extension/Drawer Mounting Hardware - Snap Clip.step",
+  "parts": 1,
+  "kinds": {},
+  "report": {
+   "num_faces": 85,
+   "faces_skipped": 0,
+   "num_edges": 220,
+   "recognised": 14,
+   "surfaces_recognised": 0,
+   "tolerances_raised": 92,
+   "largest_gap": 0.0009088300908569064,
+   "tolerances_raised_to_faces": 54,
+   "largest_face_gap": 0.006943237601234865,
+   "largest_recognised": 8.065196001798809e-05,
+   "tolerances_capped": 1,
+   "largest_stated_tolerance": 0.02,
+   "edges_lowered": 0,
+   "slivers_collapsed": 0,
+   "widest_sliver": 0.0,
+   "slivers_kept": 0
+  },
+  "warnings": []
+ }
+]

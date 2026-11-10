@@ -1,0 +1,515 @@
+{
+  "fingerprint": [
+    {
+      "area": 18716.414707066473,
+      "edges": 15,
+      "faces": 7,
+      "ids": [
+        "Face(2v1)",
+        "Face(3v1)",
+        "Face(4v1)",
+        "Face(6v1)",
+        "Face(7v1)",
+        "Face(8v1)",
+        "Face(9v1)",
+        "Edge(17v1)",
+        "Edge(18v1)",
+        "Edge(21v1)",
+        "Edge(22v1)",
+        "Edge(23v1)",
+        "Edge(24v1)",
+        "Edge(25v1)",
+        "Edge(26v1)",
+        "Edge(27v1)",
+        "Edge(28v1)",
+        "Edge(29v1)",
+        "Edge(30v1)",
+        "Edge(31v1)",
+        "Edge(32v1)",
+        "Edge(33v1)",
+        "Vertex(7v1)",
+        "Vertex(11v1)",
+        "Vertex(12v1)",
+        "Vertex(13v1)",
+        "Vertex(14v1)",
+        "Vertex(15v1)",
+        "Vertex(16v1)",
+        "Vertex(17v1)",
+        "Vertex(18v1)",
+        "Vertex(19v1)"
+      ],
+      "max": [
+        2457.885,
+        429.07900000000006,
+        104.60200000000015
+      ],
+      "min": [
+        2442.8849999999657,
+        328.07899999999995,
+        34.60199999999995
+      ],
+      "name": "drawer1_front",
+      "vertices": 10,
+      "volume": 98890.89939108063
+    }
+  ],
+  "helpers": {},
+  "label": "ext",
+  "params": {
+    "AV_STEP": 7,
+    "BASE_SLOT": "back",
+    "DB_FIX": 1,
+    "DETAIL_X": [
+      0,
+      0
+    ],
+    "PULL": "front_cove"
+  },
+  "reply": {
+    "ok": {
+      "assembly": null,
+      "fingerprint": [
+        {
+          "area": 18716.414707066473,
+          "edges": 15,
+          "faces": 7,
+          "ids": [
+            "Face(2v1)",
+            "Face(3v1)",
+            "Face(4v1)",
+            "Face(6v1)",
+            "Face(7v1)",
+            "Face(8v1)",
+            "Face(9v1)",
+            "Edge(17v1)",
+            "Edge(18v1)",
+            "Edge(21v1)",
+            "Edge(22v1)",
+            "Edge(23v1)",
+            "Edge(24v1)",
+            "Edge(25v1)",
+            "Edge(26v1)",
+            "Edge(27v1)",
+            "Edge(28v1)",
+            "Edge(29v1)",
+            "Edge(30v1)",
+            "Edge(31v1)",
+            "Edge(32v1)",
+            "Edge(33v1)",
+            "Vertex(7v1)",
+            "Vertex(11v1)",
+            "Vertex(12v1)",
+            "Vertex(13v1)",
+            "Vertex(14v1)",
+            "Vertex(15v1)",
+            "Vertex(16v1)",
+            "Vertex(17v1)",
+            "Vertex(18v1)",
+            "Vertex(19v1)"
+          ],
+          "max": [
+            2457.885,
+            429.07900000000006,
+            104.60200000000015
+          ],
+          "min": [
+            2442.8849999999657,
+            328.07899999999995,
+            34.60199999999995
+          ],
+          "name": "drawer1_front",
+          "vertices": 10,
+          "volume": 98890.89939108063
+        }
+      ],
+      "helpers": {},
+      "output": "opening width 775.0 yc 28.079000000000008 inside depth 562.0\ndrawbar layout: box bottoms [-74.4, -285.4, -568.4] heights [164.0, 164.0, 236.0]\nOB [-99.39800000000002, -317.398, -613.398] front bottoms [-110.39800000000002, -328.398, -650.398] box w 743.0\n",
+      "parameters": {
+        "ALTO_HS": 86.0,
+        "ALTO_L": 500.0,
+        "ALTO_T": 15.0,
+        "ALTO_TOT": [
+          86.0,
+          86.0,
+          204.0,
+          204.0
+        ],
+        "AV_STEP": 7,
+        "BACK_Z0": 5.0,
+        "BASE_SLOT": "back",
+        "BASKET_PULL": 0.0,
+        "BAY_Y1": 1026.0,
+        "BF_H": 730.0,
+        "BHB": 350.0,
+        "BIN_PULL": 0.0,
+        "BNL": 550.0,
+        "BOT_T": 15.0,
+        "BOX_H": [
+          130.0,
+          130.0,
+          165.0,
+          165.0
+        ],
+        "BUILD_DRAWERS": true,
+        "COL_BOARD": [
+          0.93,
+          0.84,
+          0.64
+        ],
+        "COL_FRONT": [
+          0.918,
+          0.918,
+          0.918
+        ],
+        "COL_HANDLE": [
+          0.498,
+          0.498,
+          0.498
+        ],
+        "COL_PLY": [
+          0.86,
+          0.72,
+          0.52
+        ],
+        "COL_STEEL": [
+          0.62,
+          0.64,
+          0.68
+        ],
+        "COVE_R": 9.5,
+        "DB_FIX": 1,
+        "DB_L": 495.0,
+        "DETAIL_X": [
+          0,
+          0
+        ],
+        "DF_Y0": 445.579,
+        "DOOR_FIX": 13.0,
+        "DOOR_SLIDE": 0.0,
+        "DRAWER_SYS": "drawbar",
+        "DY0": 445.579,
+        "EXT_OPEN": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "EXT_TRAVEL": 500.0,
+        "FRAME_FIX": 14.0,
+        "FREE_OVERHANG": 15.0,
+        "FRONT_H": [
+          163.0,
+          163.0,
+          210.0,
+          210.0
+        ],
+        "FRONT_OVERHANG": 20.0,
+        "FRONT_T": 15.0,
+        "FULL_REF": false,
+        "GAP": 3.0,
+        "GROOVE_D": 8.0,
+        "GRV_RAD": 3.0,
+        "HANDLES": false,
+        "KB_FIX": 38.0,
+        "KB_SETBACK": 60.0,
+        "NL": 550.0,
+        "PULL": "front_cove",
+        "PULL_OUT": 700.0,
+        "REB_SPAN": 15.0,
+        "RP1": 1990.885,
+        "RUN_CLR": 2.0,
+        "RUN_DROP": 45.0,
+        "SCREW_L": 25.0,
+        "SD_W": 470.0,
+        "SHOW_DOOR": true,
+        "SLOT_BIT": [
+          [
+            21.0,
+            10.0
+          ],
+          [
+            20.4,
+            11.7
+          ],
+          [
+            19.0,
+            12.6
+          ],
+          [
+            17.0,
+            12.7
+          ],
+          [
+            15.0,
+            12.3
+          ],
+          [
+            13.6,
+            11.0
+          ],
+          [
+            12.6,
+            8.8
+          ],
+          [
+            11.6,
+            7.2
+          ],
+          [
+            10.4,
+            6.2
+          ],
+          [
+            9.0,
+            5.8
+          ],
+          [
+            7.6,
+            6.0
+          ],
+          [
+            6.4,
+            6.9
+          ],
+          [
+            5.5,
+            8.2
+          ],
+          [
+            4.8,
+            9.6
+          ],
+          [
+            0.0,
+            9.6
+          ]
+        ],
+        "SLOT_K": 6.0,
+        "STAGE": 10,
+        "STR_W": 60.0,
+        "T": 15.0,
+        "X_BACK": 3040.885,
+        "X_EDGE": 2440.885,
+        "Y_A": -389.421,
+        "Y_B": 430.579,
+        "Z_FLOOR": -745.398,
+        "Z_PLINTH_TOP": -630.398,
+        "Z_TOP": 109.602,
+        "_DETAIL_CROP": [
+          "drawer1_side_L",
+          "drawer1_drawbar_L",
+          "drawer1_drawbar_bracket_L"
+        ],
+        "_DETAIL_KEEP": [
+          "drawer1_snap_clip_L",
+          "drawer1_fixing_screw_1",
+          "drawer1_fixing_screw_2"
+        ],
+        "bins": [],
+        "grp": "Plinth",
+        "nx": 7,
+        "rest": [],
+        "rods": [],
+        "w": 5.0
+      },
+      "parts": [
+        {
+          "colour": [
+            0.96,
+            0.52,
+            0.1
+          ],
+          "group": "Drawer 1",
+          "metrics": {
+            "area": 18716.414707066473,
+            "bounding_box": {
+              "max": [
+                2457.885,
+                429.07900000000006,
+                104.60200000000015
+              ],
+              "min": [
+                2442.8849999999657,
+                328.07899999999995,
+                34.60199999999995
+              ],
+              "size": [
+                15.00000000003456,
+                101.00000000000011,
+                70.0000000000002
+              ]
+            },
+            "centre": [
+              2450.63606755406,
+              378.5790000000395,
+              67.3600994374317
+            ],
+            "converged": true,
+            "edges": 15,
+            "errors": [],
+            "faces": 7,
+            "solids": 1,
+            "vertices": 10,
+            "volume": 98890.89939108063
+          },
+          "name": "drawer1_front",
+          "step": {
+            "file": "parts/drawer1_front.step"
+          },
+          "transfer": {
+            "file": "parts/drawer1_front.golf-transfer"
+          },
+          "validation": {
+            "counts": {
+              "edges": 15,
+              "faces": 7,
+              "solids": 1,
+              "vertices": 10
+            },
+            "failed": null,
+            "layers": [
+              {
+                "findings": [],
+                "kinds": {},
+                "layer": "body",
+                "passed": true
+              },
+              {
+                "findings": [],
+                "kinds": {},
+                "layer": "shells",
+                "passed": true
+              },
+              {
+                "findings": [],
+                "kinds": {},
+                "layer": "mesh",
+                "passed": true
+              },
+              {
+                "findings": [],
+                "kinds": {},
+                "layer": "structure",
+                "passed": true
+              }
+            ],
+            "valid": true
+          }
+        }
+      ],
+      "paths": {
+        "parts/assembly.golf-transfer": "/home/user/CAD/kitchen_bench_extension/golf_project/golf_out/v0045_ext/parts/assembly.golf-transfer",
+        "parts/drawer1_front.golf-transfer": "/home/user/CAD/kitchen_bench_extension/golf_project/golf_out/v0045_ext/parts/drawer1_front.golf-transfer",
+        "parts/drawer1_front.step": "/home/user/CAD/kitchen_bench_extension/golf_project/golf_out/v0045_ext/parts/drawer1_front.step",
+        "step_imports.json": "/home/user/CAD/kitchen_bench_extension/golf_project/golf_out/v0045_ext/step_imports.json"
+      },
+      "preview": {
+        "skipped": true
+      },
+      "status": "ok",
+      "step_imports": [
+        {
+          "file": "/home/user/CAD/kitchen_bench_extension/bench.step",
+          "kinds": {},
+          "parts": 20,
+          "report": {
+            "edges_lowered": 0,
+            "faces_skipped": 0,
+            "largest_face_gap": 0.0024706276965048997,
+            "largest_gap": 0.0,
+            "largest_recognised": 0.0,
+            "largest_stated_tolerance": 0.02,
+            "num_edges": 396,
+            "num_faces": 186,
+            "recognised": 0,
+            "slivers_collapsed": 0,
+            "slivers_kept": 0,
+            "surfaces_recognised": 0,
+            "tolerances_capped": 2,
+            "tolerances_raised": 0,
+            "tolerances_raised_to_faces": 1,
+            "widest_sliver": 0.0
+          }
+        },
+        {
+          "file": "/home/user/CAD/kitchen_bench_extension/Left Runner Drawbar.step",
+          "kinds": {},
+          "parts": 2,
+          "report": {
+            "edges_lowered": 0,
+            "faces_skipped": 0,
+            "largest_face_gap": 0.006712205658764417,
+            "largest_gap": 0.0,
+            "largest_recognised": 0.0,
+            "largest_stated_tolerance": 0.02,
+            "num_edges": 190,
+            "num_faces": 68,
+            "recognised": 0,
+            "slivers_collapsed": 0,
+            "slivers_kept": 0,
+            "surfaces_recognised": 0,
+            "tolerances_capped": 1,
+            "tolerances_raised": 0,
+            "tolerances_raised_to_faces": 2,
+            "widest_sliver": 0.0
+          }
+        },
+        {
+          "file": "/home/user/CAD/kitchen_bench_extension/Right Runner Drawbar.step",
+          "kinds": {},
+          "parts": 2,
+          "report": {
+            "edges_lowered": 0,
+            "faces_skipped": 0,
+            "largest_face_gap": 0.006712205658764417,
+            "largest_gap": 0.0,
+            "largest_recognised": 0.0,
+            "largest_stated_tolerance": 0.02,
+            "num_edges": 190,
+            "num_faces": 68,
+            "recognised": 0,
+            "slivers_collapsed": 0,
+            "slivers_kept": 0,
+            "surfaces_recognised": 0,
+            "tolerances_capped": 1,
+            "tolerances_raised": 0,
+            "tolerances_raised_to_faces": 2,
+            "widest_sliver": 0.0
+          }
+        },
+        {
+          "file": "/home/user/CAD/kitchen_bench_extension/Drawer Mounting Hardware - Snap Clip.step",
+          "kinds": {},
+          "parts": 1,
+          "report": {
+            "edges_lowered": 0,
+            "faces_skipped": 0,
+            "largest_face_gap": 0.006943237601234865,
+            "largest_gap": 0.0,
+            "largest_recognised": 0.00008065196001798809,
+            "largest_stated_tolerance": 0.02,
+            "num_edges": 220,
+            "num_faces": 85,
+            "recognised": 14,
+            "slivers_collapsed": 0,
+            "slivers_kept": 0,
+            "surfaces_recognised": 0,
+            "tolerances_capped": 1,
+            "tolerances_raised": 0,
+            "tolerances_raised_to_faces": 15,
+            "widest_sliver": 0.0
+          }
+        }
+      ],
+      "transfer": {
+        "file": "parts/assembly.golf-transfer"
+      },
+      "warnings": []
+    }
+  },
+  "script": "/home/user/CAD/kitchen_bench_extension/golf_project/golf_projects/kitchen_bench_extension-1/ext.py",
+  "script_sha256": "ad2313657951088653c29114c4e6e7297eb7af31c062899544b421c5d154d998",
+  "status": "ok",
+  "time": 1794019912,
+  "version": 45
+}

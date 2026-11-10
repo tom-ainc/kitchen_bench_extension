@@ -1,0 +1,50 @@
+[
+ {
+  "file": "/home/user/CAD/kitchen_bench_extension/Drawer Mounting Hardware - Snap Clip.step",
+  "parts": 1,
+  "kinds": {},
+  "report": {
+   "num_faces": 85,
+   "faces_skipped": 0,
+   "num_edges": 220,
+   "recognised": 14,
+   "surfaces_recognised": 0,
+   "tolerances_raised": 0,
+   "largest_gap": 0.0,
+   "tolerances_raised_to_faces": 15,
+   "largest_face_gap": 0.006943237601234865,
+   "largest_recognised": 8.065196001798809e-05,
+   "tolerances_capped": 1,
+   "largest_stated_tolerance": 0.02,
+   "edges_lowered": 0,
+   "slivers_collapsed": 0,
+   "widest_sliver": 0.0,
+   "slivers_kept": 0
+  },
+  "warnings": []
+ },
+ {
+  "file": "/home/user/CAD/kitchen_bench_extension/Left Runner Drawbar.step",
+  "parts": 2,
+  "kinds": {},
+  "report": {
+   "num_faces": 68,
+   "faces_skipped": 0,
+   "num_edges": 190,
+   "recognised": 0,
+   "surfaces_recognised": 0,
+   "tolerances_raised": 0,
+   "largest_gap": 0.0,
+   "tolerances_raised_to_faces": 2,
+   "largest_face_gap": 0.006712205658764417,
+   "largest_recognised": 0.0,
+   "tolerances_capped": 1,
+   "largest_stated_tolerance": 0.02,
+   "edges_lowered": 0,
+   "slivers_collapsed": 0,
+   "widest_sliver": 0.0,
+   "slivers_kept": 0
+  },
+  "warnings": []
+ }
+]

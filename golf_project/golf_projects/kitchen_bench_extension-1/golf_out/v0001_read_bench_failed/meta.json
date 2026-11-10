@@ -1,0 +1,28 @@
+{
+  "fingerprint": null,
+  "helpers": {},
+  "label": "read_bench",
+  "params": {},
+  "reply": {
+    "error": {
+      "golf": {
+        "entities": [],
+        "kind": "InvalidArgument",
+        "operation": "show"
+      },
+      "kind": "show",
+      "line": 5,
+      "message": "show: a part named \"handle-standoff\" was already shown",
+      "next": [
+        "run"
+      ],
+      "output": "benchtop [90.9, 430.6, 109.6] [3040.9, 1030.6, 134.6] 31875000\nKickboardExt [2449.9, -394.4, -745.4] [2465.9, 445.6, -630.4] 1545600\nKickboard [750.9, 445.6, -745.4] [3040.9, 461.6, -630.4] 4213600\nframing [761.9, 450.6, 69.6] [3035.9, 470.6, 109.6] 1746880\nsink [1003.4, 473.1, -17.0] [2003.4, 973.1, 136.2] 1292442\ndoor-left [763.9, 432.6, -625.4] [1213.9, 451.6, 104.6] 6240754\nleft support [105.9, 430.6, -745.4] [135.9, 1030.6, 109.6] 15390000\nhandle-grip [1166.2, 396.6, -86.2] [1178.2, 408.6, 43.8] 14406\nhandle-standoff [1167.2, 405.9, -75.6] [1177.2, 432.6, -65.6] 1931\nhandle-standoff [1167.2, 405.9, 24.6] [1177.2, 432.6, 34.6] 1931\n",
+      "traceback": "  File \"/home/user/CAD/kitchen_bench_extension/golf_project/golf_projects/kitchen_bench_extension-1/read_bench.py\", line 5, in <module>\n    show(p, p.name() or \"part\")\n    ~~~~^^^^^^^^^^^^^^^^^^^^^^^\ngolf_py.InvalidArgumentError: show: a part named \"handle-standoff\" was already shown\n"
+    }
+  },
+  "script": "/home/user/CAD/kitchen_bench_extension/golf_project/golf_projects/kitchen_bench_extension-1/read_bench.py",
+  "script_sha256": "35844a13c328955f644829551b0e00d217ebac29590778a7b09b0064d529afe2",
+  "status": "failed",
+  "time": 1793650385,
+  "version": 1
+}

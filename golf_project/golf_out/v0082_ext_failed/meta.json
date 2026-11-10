@@ -1,0 +1,24 @@
+{
+  "fingerprint": null,
+  "helpers": {},
+  "label": "ext",
+  "params": {
+    "AV_STEP": 8,
+    "PULL": "front_cove"
+  },
+  "reply": {
+    "error": {
+      "kind": "cancelled",
+      "message": "the request was cancelled; the worker is restarted",
+      "next": [
+        "context"
+      ],
+      "phase": "script"
+    }
+  },
+  "script": "/home/user/CAD/kitchen_bench_extension/golf_project/golf_projects/kitchen_bench_extension-1/ext.py",
+  "script_sha256": "9e53416a9f4f801276bce87f3a61ea1830a5a04165f0a3ae107e6bf32f9da818",
+  "status": "failed",
+  "time": 1794024227,
+  "version": 82
+}

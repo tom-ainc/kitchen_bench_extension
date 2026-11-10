@@ -1,0 +1,32 @@
+{
+  "fingerprint": null,
+  "helpers": {},
+  "label": "fixings_refmerge",
+  "params": {},
+  "reply": {
+    "error": {
+      "golf": {
+        "entities": [
+          "Shell(17v1)"
+        ],
+        "kind": "Failed",
+        "operation": "fuse_all"
+      },
+      "kind": "golf",
+      "line": 56,
+      "message": "fuse_all: shell ShellKey(17v1) of the result faces into the solid",
+      "next": [
+        "docs",
+        "inspect",
+        "run"
+      ],
+      "output": "",
+      "traceback": "  File \"/home/user/CAD/kitchen_bench_extension/golf_project/golf_projects/kitchen_bench_extension-1/ext.py\", line 56, in <module>\n    _ref_rest = _ref_rest + _p\n                ~~~~~~~~~~^~~~\ngolf_py.FailedError: fuse_all: shell ShellKey(17v1) of the result faces into the solid\n"
+    }
+  },
+  "script": "/home/user/CAD/kitchen_bench_extension/golf_project/golf_projects/kitchen_bench_extension-1/ext.py",
+  "script_sha256": "f3cce504464fa6c460316bc22843fe52b834c52d0814fb97cbb3f226e1921e24",
+  "status": "failed",
+  "time": 1793650913,
+  "version": 5
+}

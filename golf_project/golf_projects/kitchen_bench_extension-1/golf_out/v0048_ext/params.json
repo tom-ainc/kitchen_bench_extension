@@ -1,0 +1,13 @@
+{
+  "BASKET_PULL": 0,
+  "BIN_PULL": 0,
+  "DOOR_SLIDE": 0,
+  "EXT_OPEN": [
+    0.25,
+    0.5,
+    0.75,
+    1
+  ],
+  "FULL_REF": true,
+  "STAGE": 10
+}

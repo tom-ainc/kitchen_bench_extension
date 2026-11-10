@@ -1,0 +1,3 @@
+opening width 775.0 yc 28.079000000000008 inside depth 507.0
+drawbar layout: box bottoms [-69.4, -279.4, -555.4] heights [160.0, 160.0, 226.0]
+OB [-95.39800000000002, -305.398, -603.398] front bottoms [-106.39800000000002, -316.398, -625.398] box w 743.0

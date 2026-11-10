@@ -1,0 +1,26 @@
+[
+ {
+  "file": "/home/user/CAD/kitchen_bench_extension/bench.step",
+  "parts": 20,
+  "kinds": {},
+  "report": {
+   "num_faces": 186,
+   "faces_skipped": 0,
+   "num_edges": 396,
+   "recognised": 0,
+   "surfaces_recognised": 0,
+   "tolerances_raised": 0,
+   "largest_gap": 0.0,
+   "tolerances_raised_to_faces": 1,
+   "largest_face_gap": 0.0024706276965048997,
+   "largest_recognised": 0.0,
+   "tolerances_capped": 2,
+   "largest_stated_tolerance": 0.02,
+   "edges_lowered": 0,
+   "slivers_collapsed": 0,
+   "widest_sliver": 0.0,
+   "slivers_kept": 0
+  },
+  "warnings": []
+ }
+]

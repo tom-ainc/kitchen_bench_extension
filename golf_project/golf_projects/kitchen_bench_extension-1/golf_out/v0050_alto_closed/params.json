@@ -1,0 +1,14 @@
+{
+  "BASKET_PULL": 0,
+  "BIN_PULL": 0,
+  "DOOR_SLIDE": 0,
+  "DRAWER_SYS": "alto",
+  "EXT_OPEN": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "FULL_REF": true,
+  "STAGE": 10
+}

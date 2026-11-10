@@ -1,0 +1,10 @@
+{
+  "AV_STEP": 9,
+  "BASE_SLOT": "back",
+  "DB_FIX": 1,
+  "DETAIL_X": [
+    0,
+    0
+  ],
+  "PULL": "front_cove"
+}

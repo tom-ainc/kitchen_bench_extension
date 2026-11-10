@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "golf-kitchen": {
+      "type": "stdio",
+      "command": "/home/user/CAD/kitchen_bench_extension/venv/bin/golf",
+      "args": [
+        "serve",
+        "--project",
+        "/home/user/CAD/kitchen_bench_extension/golf_project"
+      ],
+      "env": {}
+    }
+  }
+}
