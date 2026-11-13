@@ -60,7 +60,7 @@ With the routing done, all that was left was to see if everything fit together a
 
 #### Carcass & Plinth
 
-<img style="width: 700px; height: 800px; object-fit: cover" src="./media/5.2 carcass_assembled.jpg"/>
+<img style="width: 700px;" src="./media/5.2 carcass_assembled.jpg"/>
 
 #### Drawer
 
@@ -70,11 +70,11 @@ With the routing done, all that was left was to see if everything fit together a
 
 #### Drawer
 
-<img style="width: 700px; height: 600px; object-fit: cover;" src="./media/5.5 drawer test fit.jpg"/>
+<img style="width: 700px;" src="./media/5.5 drawer test fit.jpg"/>
 
 #### Carcass
 
-<img style="width: 600px; height: 600px; object-fit: cover;" src="./media/5.3 carcass_test_fit.jpg"/>
+<img style="width: 600px;" src="./media/5.3 carcass_test_fit.jpg"/>
 
 ### Oil & Assemble Drawers
 
