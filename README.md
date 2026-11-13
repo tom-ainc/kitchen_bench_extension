@@ -94,7 +94,7 @@ With the routing done, all that was left was to see if everything fit together a
 
 #### Testing the bottom drawer
 
-<video style="width: 700px" src="./media/9.0 drawer_runner_check.mp4"/>
+https://github.com/user-attachments/assets/8676af79-2570-4209-ad91-c1c517506db3
 
 #### Drawers installed
 
@@ -102,5 +102,4 @@ With the routing done, all that was left was to see if everything fit together a
 
 #### Coffee up!
 
-https://github.com/user-attachments/assets/8676af79-2570-4209-ad91-c1c517506db3
-
+<img style="width: 700px" src="./media/11.0 coffee_up.jpg"/>
